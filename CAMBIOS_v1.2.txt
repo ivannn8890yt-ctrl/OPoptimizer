@@ -1,0 +1,7 @@
+OPoptimizer v1.2 - Corrección de errores de compilación
+
+- Agregado using System.IO; a MainWindow.xaml.cs y cuatro archivos de Services.
+- Arregla referencias a Path, Directory, File, FileInfo, DriveInfo y DirectoryNotFoundException.
+- Compilar: doble clic en COMPILAR_OPoptimizer.cmd.
+- No requiere reinstalar .NET si ya está instalado.
+- No se pudo ejecutar una compilación Windows/WPF aquí; puede requerir correcciones adicionales.
